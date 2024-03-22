@@ -1,10 +1,10 @@
 {
     "PORT": 8080,
     "mongoDb":{
-        "mongoURI" :"mongodb://172.24.18.11:27017",
-        "db": "test",
+        "mongoURI" :"mongodb://localhost:27017",
+        "db": "user_db",
         "collections":{
-            "user": "schedules"
+            "user": "user"
         }
     }
 }
