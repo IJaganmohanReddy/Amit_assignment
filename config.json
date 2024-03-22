@@ -1,0 +1,10 @@
+{
+    "PORT": 8080,
+    "mongoDb":{
+        "mongoURI" :"mongodb://172.24.18.11:27017",
+        "db": "test",
+        "collections":{
+            "user": "schedules"
+        }
+    }
+}
